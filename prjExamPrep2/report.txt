@@ -1,0 +1,6 @@
+BOOK REPORT
+*******************Book Name: Silent Patient
+Book Price: 1.0
+Number Of Books: 1
+ Total Price: 1.15
+***************************

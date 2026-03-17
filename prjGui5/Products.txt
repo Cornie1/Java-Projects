@@ -1,0 +1,8 @@
+Total Sales: 2200
+Average Sales : 367
+Sales Over Limit:2
+Sales Under Limit: 4
+********************************Total Sales: prjProductSales.GetTotalSales()
+Average Sales: prjProductSales.GetAverageSales()Sales over Limit: prjProductSales.GetSalesOverLimit()
+Sales under Limit: prjProductSales.GetSalesUnderlimit()
+********************************

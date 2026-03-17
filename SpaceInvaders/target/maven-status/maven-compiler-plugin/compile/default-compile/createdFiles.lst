@@ -1,0 +1,5 @@
+com\mycompany\spaceinvaders\Bullet.class
+com\mycompany\spaceinvaders\SpaceInvaders.class
+com\mycompany\spaceinvaders\Player.class
+com\mycompany\spaceinvaders\EnemyShip.class
+com\mycompany\spaceinvaders\Entity.class

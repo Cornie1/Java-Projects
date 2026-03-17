@@ -1,0 +1,7 @@
+Restaurant Meal order 
+*************************Meal: Burger
+ number of Meals : 65
+Price Per Meal: R65.0
+VAT (15%): R633.75
+Total Price: R 4858.75
+

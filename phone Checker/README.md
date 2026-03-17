@@ -1,7 +1,3 @@
-# ST10467076-PROG5121-POE
-Aaron Kilbride : ST10467076
-
-https://youtu.be/ruaVBGvdLbM
 
 
 

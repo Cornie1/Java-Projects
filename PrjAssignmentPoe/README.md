@@ -9,11 +9,6 @@ has another test file for the message system
 
 
 
-Youtube Video:
-
-https://youtu.be/uUWtnDe56YY part 3 POE
-
-https://youtu.be/TO-e5mnprag part 2
 
 
 
